@@ -61,19 +61,19 @@ global.psaweria = '081807254833'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285896938397'
-global.6281807254833 = '6281807254833'
+global.nomorown = '6281807254833'
 global.namebot = 'IBNU OFFICIAL 🅥⁩ '
 global.nameown = 'BOT-Whatsapp🅥⁩'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'owner ibnu🅥⁩, true] //Ganti jd nomormu sama Namamu
+  ['6281807254833', 'Sewa Bot', true],
+  ['6281807254833', 'owner ibnu🅥⁩, true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6287871670129'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
