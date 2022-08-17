@@ -11,8 +11,8 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • LeonGanz
-// • Xtreshe (Beban)
-// • Dll
+// • IBNU OFFICIAL 🅥⁩ (AAASUU)
+// • DLL
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sig = 'https://instagram.com/ibnu_ramadhani.1'
+global.sgh = 'https://github.com/POOJJHG/SC-ibnu'
+global.sgc = 'https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj'
+global.sdc = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn'
+global.snh = 'https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '081807254833'
+global.povo = '081807254833'
+global.pgopay = '081807254833'
+global.ppulsa = '081807254833'
+global.ppulsa2 = '081807254833'
+global.psaweria = '081807254833'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6285896938397'
+global.6281807254833 = '6281807254833'
+global.namebot = 'IBNU OFFICIAL 🅥⁩ '
+global.nameown = 'BOT-Whatsapp🅥⁩'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['17242332244', 'owner ibnu🅥⁩, true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
